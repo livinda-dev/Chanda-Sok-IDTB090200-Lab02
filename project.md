@@ -17,3 +17,10 @@
 ![alt text](confirm-in-docker.png)
 - container in docker desktop
 
+![alt text](stop-container.png)
+- stop the container
+
+![alt text](update-app.png)
+![alt text](build-new-image.png)
+- update image after change the code in app.js
+
