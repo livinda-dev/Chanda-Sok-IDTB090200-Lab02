@@ -24,3 +24,10 @@
 ![alt text](build-new-image.png)
 - update image after change the code in app.js
 
+![alt text](error-push-image.png)
+- 
+
+![alt text](push-repo.png)
+- 
+
+![alt text](build-amd64.png)
